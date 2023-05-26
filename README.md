@@ -35,13 +35,13 @@ You can use the website to generate badges: https://shields.io/
 <p align="left">
 • ɴᴀᴍᴇ : ᴀᴊᴀʏ
 <p align="left">
-• 𝙰𝚐𝚎 : 14
+• 𝙰𝚐𝚎 : 13
 <p align="left">
 • ᴘʟᴀᴄᴇ : ᴀʟᴀᴘᴘᴜᴢʜᴀ
 <p align="left">
-• ʟᴀɴɢᴜᴀɢᴇs : ᴍᴀʟᴀʏᴀʟᴀᴍ,ᴛᴀᴍɪʟ
+• ʟᴀɴɢᴜᴀɢᴇs : ᴍᴀʟᴀʏᴀʟᴀᴍ,ᴛᴀᴍɪʟ,ᴇɴɢʟɪꜱʜ
 <p align="left">
-• sᴛᴜᴅʏ : 7ᵗʰ 
+• sᴛᴜᴅʏ : 8ᵗʰ 
 <p align="left">
 - ᴀᴄᴛɪᴠᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ
 
