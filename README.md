@@ -10,9 +10,9 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/TG_Spider"><img src="https://telegra.ph/file/a98e9ccb21fc23fe84e3e.jpg" width="150px" height="150px" /></a> |
+| <a href="https://t.me/AjayZ_TG"><img src="https://telegra.ph/file/a98e9ccb21fc23fe84e3e.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Pb Ajay](https://t.me/TG_Spider)**                                                                                |
+|       **[AjayZ TG 💚](https://t.me/AjayZ_TG)**                                                                                |
 
 ### My Other Details
 
@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 ---------
 <p align="center">
 
- [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/TG_Spider)
+ [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AjayZ_TH)
 
 ---------
 
@@ -77,7 +77,7 @@ Used Languages
 </p>
 <a href="h
 
-  <a href="https://github.com/PbAjay"><img alt="Jeol's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PbAjay&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/PbAjay"><img alt="Ajay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PbAjay&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
